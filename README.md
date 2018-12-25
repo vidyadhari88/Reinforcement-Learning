@@ -1,3 +1,3 @@
 # Reinforcement-Learning
 
-# This Project's main goal is to let agent learn the shortest path to the goal. In the environment the agent controls a green square, and the goal is to navigate to the yellow square (reward +1), using the shortest path. At the start of each episode all squares are randomly placed within a 5x5 grid-world. The agent has 100 steps to achieve as large a reward as possible. They have the same position over each reset, thus the agent needs to learn a fixed optimal path.
+# The problem is to teach the agent on how to move in grid environment so as to reach its desired goal. In other words, the agent is Tom in which he needs to be trained in such a way that he would be able to catch jerry-Goal by maximizing the reward at each step, thus, arriving at an optimal shortest path.
